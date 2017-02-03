@@ -19,3 +19,6 @@
 [submodule "5/james"]
 	path = 5/james_wang
 	url = https://github.com/james9909/picmaker
+[submodule "10/xu_xinhui"]
+	path = 10/xu_xinhui
+	url = https://github.com/xinhuixu/picmaker
