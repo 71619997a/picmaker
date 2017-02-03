@@ -22,3 +22,6 @@
 [submodule "10/xu_xinhui"]
 	path = 10/xu_xinhui
 	url = https://github.com/xinhuixu/picmaker
+[submodule "5/ruochong_wu"]
+	path = 5/ruochong_wu
+	url = https://github.com/wuruochong/GraphicsW1.git
