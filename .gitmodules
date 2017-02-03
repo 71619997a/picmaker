@@ -1,6 +1,9 @@
 [submodule "5/AymanAhmed"]
 	path = 5/AymanAhmed
 	url = https://github.com/eccentricayman/IMAGUUU.git
+[submodule "10/PxlPfct-YeJ"]
+	path = 10/PxlPfct-YeJ
+	url = https://github.com/joel99/GraphicsHW1-ImagineAllThePixels.git
 [submodule "5/firstimage"]
 	path = 5/firstimage
 	url = http://www.github.com/wvenderbush/firstimage
