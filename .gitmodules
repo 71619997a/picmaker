@@ -1,3 +1,6 @@
 [submodule "5/firstimage"]
 	path = 5/firstimage
 	url = http://www.github.com/wvenderbush/firstimage
+[submodule "5/wvenderbush"]
+	path = 5/wvenderbush
+	url = http://www.github.com/wvenderbush/firstimage
