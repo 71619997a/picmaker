@@ -10,3 +10,6 @@
 [submodule "5/wvenderbush"]
 	path = 5/wvenderbush
 	url = http://www.github.com/wvenderbush/firstimage
+[submodule "4/chris_sher"]
+	path = 4/chris_sher
+	url = https://github.com/csherling/picmaker_graphics.git
