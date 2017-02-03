@@ -16,3 +16,6 @@
 [submodule "10/wong_billy"]
 	path = 10/wong_billy
 	url = git@github.com:billywongstuy/Graphics-pixels1.git
+[submodule "5/james"]
+	path = 5/james_wang
+	url = https://github.com/james9909/picmaker
