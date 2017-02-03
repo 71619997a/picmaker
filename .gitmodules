@@ -28,3 +28,6 @@
 [submodule "5/oliver_chen"]
 	path = 5/oliver_chen
 	url = https://github.com/Chen-Oliver/pixelated.git
+[submodule "4/emma_vukelj"]
+	path = 4/emma_vukelj
+	url = https://github.com/evookelj/graphics-1.git
