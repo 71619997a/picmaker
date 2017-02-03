@@ -13,3 +13,6 @@
 [submodule "4/chris_sher"]
 	path = 4/chris_sher
 	url = https://github.com/csherling/picmaker_graphics.git
+[submodule "10/wong_billy"]
+	path = 10/wong_billy
+	url = git@github.com:billywongstuy/Graphics-pixels1.git
