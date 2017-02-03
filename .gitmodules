@@ -25,3 +25,6 @@
 [submodule "5/ruochong_wu"]
 	path = 5/ruochong_wu
 	url = https://github.com/wuruochong/GraphicsW1.git
+[submodule "5/oliver_chen"]
+	path = 5/oliver_chen
+	url = https://github.com/Chen-Oliver/pixelated.git
