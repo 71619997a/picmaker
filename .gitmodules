@@ -46,3 +46,6 @@
 [submodule "4/vandana_agarwala"]
 	path = 4/vandana_agarwala
 	url = https://github.com/vagarwala/Graphics-Work1.git
+[submodule "4/yikai_wang"]
+	path = 4/yikai_wang
+	url = https://github.com/getDolla/Graphics01.git
