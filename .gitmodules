@@ -37,3 +37,6 @@
 [submodule "10/calvin_vuong"]
 	path = 10/calvin_vuong
 	url = https://github.com/calvinvuong/graphics_intro_assignment.git
+[submodule "10/alvin_zhu"]
+	path = 10/alvin_zhu
+	url = https://github.com/alvinzhu33/00_graphics.git
