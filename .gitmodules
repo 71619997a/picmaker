@@ -40,3 +40,6 @@
 [submodule "10/alvin_zhu"]
 	path = 10/alvin_zhu
 	url = https://github.com/alvinzhu33/00_graphics.git
+[submodule "4/haley_zeng"]
+	path = 4/haley_zeng
+	url = https://github.com/hhzrabbit/firstimage.git
