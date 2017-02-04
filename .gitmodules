@@ -64,3 +64,6 @@
 [submodule "4/zicheng_zhen"]
 	path = 4/zicheng_zhen
 	url = https://github.com/Zzcnick/graphics_intro.git
+[submodule "5/kevinZhang"]
+	path = 5/kevinZhang
+	url = https://github.com/fierydarkwraith/simpleImage.git
