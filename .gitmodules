@@ -52,3 +52,6 @@
 [submodule "5/gio_topa"]
 	path = 5/gio_topa
 	url = https://github.com/gTopa/graphicsHW1.git
+[submodule "10/john_park"]
+	path = 10/john_park
+	url = https://github.com/parkjmjohn/Work1.git
