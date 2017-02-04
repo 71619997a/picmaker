@@ -34,3 +34,6 @@
 [submodule "10/brian_yang"]
 	path = 10/brian_yang
 	url = https://github.com/brian-yang/Graphics-Picmaker.git
+[submodule "10/calvin_vuong"]
+	path = 10/calvin_vuong
+	url = https://github.com/calvinvuong/graphics_intro_assignment.git
