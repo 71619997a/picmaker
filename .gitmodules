@@ -55,3 +55,6 @@
 [submodule "10/john_park"]
 	path = 10/john_park
 	url = https://github.com/parkjmjohn/Work1.git
+[submodule "10/anthony_liang"]
+	path = 10/anthony_liang
+	url = https://github.com/aliang8/picmaker.git
