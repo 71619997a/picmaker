@@ -67,3 +67,6 @@
 [submodule "5/kevinZhang"]
 	path = 5/kevinZhang
 	url = https://github.com/fierydarkwraith/simpleImage.git
+[submodule "10/vanna_mavromatis"]
+	path = 10/vanna_mavromatis
+	url = https://github.com/Vanna-M/picMaker.git
