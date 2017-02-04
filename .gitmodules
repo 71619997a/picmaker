@@ -61,3 +61,6 @@
 [submodule "10/charles_zhang"]
 	path = 10/charles_zhang
 	url = https://github.com/charles-ah/graphics-work1.git
+[submodule "4/zicheng_zhen"]
+	path = 4/zicheng_zhen
+	url = https://github.com/Zzcnick/graphics_intro.git
