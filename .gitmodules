@@ -82,3 +82,6 @@
 [submodule "10/grace_stempel"]
 	path = 10/grace_stempel
 	url = https://github.com/gstempel/01_ImagineAllDemPixels.git
+[submodule "5/felix_rieg-baumhauer"]
+	path = 5/felix_rieg-baumhauer
+	url = https://github.com/FelixRiegBaumhauer/Imagine_the_Pixels.git
