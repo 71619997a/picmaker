@@ -115,3 +115,6 @@
 [submodule "5/dorothy_ng"]
 	path = 5/dorothy_ng
 	url = https://github.com/yureistar/G1-pixeImage.git
+[submodule "5/tina_la"]
+	path = 5/tina_la
+	url = https://github.com/LumosNox77/pic.git
