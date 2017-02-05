@@ -103,3 +103,6 @@
 [submodule "4/cicture"]
 	path = 4/cicture
 	url = https://github.com/Dew613/cicture.git
+[submodule "5/jack_schluger"]
+	path = 5/jack_schluger
+	url = https://github.com/jschluger/first-image.git
