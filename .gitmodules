@@ -91,3 +91,9 @@
 [submodule "5/jackson_morgan"]
 	path = 5/jackson_morgan
 	url = https://github.com/jmorgan28/hw1.git
+[submodule "10/FirstPicture"]
+	path = 10/FirstPicture
+	url = https://github.com/plwslw/FirstPicture
+[submodule "10/Steven_LW"]
+	path = 10/Steven_LW
+	url = https://github.com/plwslw/FirstPicture
