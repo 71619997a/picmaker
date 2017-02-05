@@ -70,3 +70,6 @@
 [submodule "10/vanna_mavromatis"]
 	path = 10/vanna_mavromatis
 	url = https://github.com/Vanna-M/picMaker.git
+[submodule "4/reo_kimura"]
+	path = 4/reo_kimura
+	url = https://github.com/oreo21/picmaker_F06.git
