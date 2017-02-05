@@ -118,3 +118,6 @@
 [submodule "5/tina_la"]
 	path = 5/tina_la
 	url = https://github.com/LumosNox77/pic.git
+[submodule "5/gabriel_marks"]
+	path = 5/gabriel_marks
+	url = https://github.com/71619997a/gfx-hw1.git
