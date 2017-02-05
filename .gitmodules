@@ -109,3 +109,6 @@
 [submodule "5/james_hua"]
 	path = 5/james_hua
 	url = https://github.com/jhua1/work_1.git
+[submodule "5/G1-pixeImage"]
+	path = 5/G1-pixeImage
+	url = https://github.com/yureistar/G1-pixeImage.git
