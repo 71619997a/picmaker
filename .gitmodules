@@ -79,3 +79,6 @@
 [submodule "5/kevin_hwang"]
 	path = 5/kevin_hwang
 	url = https://github.com/khwang2337/image
+[submodule "10/grace_stempel"]
+	path = 10/grace_stempel
+	url = https://github.com/gstempel/01_ImagineAllDemPixels.git
