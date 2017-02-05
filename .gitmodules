@@ -112,3 +112,6 @@
 [submodule "5/G1-pixeImage"]
 	path = 5/G1-pixeImage
 	url = https://github.com/yureistar/G1-pixeImage.git
+[submodule "5/dorothy_ng"]
+	path = 5/dorothy_ng
+	url = https://github.com/yureistar/G1-pixeImage.git
