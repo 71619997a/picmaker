@@ -100,3 +100,6 @@
 [submodule "5/pchan"]
 	path = 5/pchan
 	url = https://github.com/pchan37/probable-potato.git
+[submodule "4/cicture"]
+	path = 4/cicture
+	url = https://github.com/Dew613/cicture.git
