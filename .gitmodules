@@ -85,3 +85,6 @@
 [submodule "5/felix_rieg-baumhauer"]
 	path = 5/felix_rieg-baumhauer
 	url = https://github.com/FelixRiegBaumhauer/Imagine_the_Pixels.git
+[submodule "10/jason_chua"]
+	path = 10/jason_chua
+	url = https://github.com/jchua1/picmaker.git
