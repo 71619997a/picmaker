@@ -88,3 +88,6 @@
 [submodule "10/jason_chua"]
 	path = 10/jason_chua
 	url = https://github.com/jchua1/picmaker.git
+[submodule "5/jackson_morgan"]
+	path = 5/jackson_morgan
+	url = https://github.com/jmorgan28/hw1.git
