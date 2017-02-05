@@ -97,3 +97,6 @@
 [submodule "10/Steven_LW"]
 	path = 10/Steven_LW
 	url = https://github.com/plwslw/FirstPicture
+[submodule "5/pchan"]
+	path = 5/pchan
+	url = https://github.com/pchan37/probable-potato.git
