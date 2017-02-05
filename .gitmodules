@@ -73,3 +73,6 @@
 [submodule "4/reo_kimura"]
 	path = 4/reo_kimura
 	url = https://github.com/oreo21/picmaker_F06.git
+[submodule "4/yvonne_chan"]
+	path = 4/yvonne_chan
+	url = https://github.com/ChanYvonne/Graphics-Picmaker.git
